@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Julián Moreno
 - 👀 I’m interested in AI, Videogames and Technologies.
 - 🌱 I’m currently learning Web Development.
-- 📫 How to reach me: linktr.ee/Julitown46
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
