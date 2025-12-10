@@ -1,10 +1,10 @@
-# 👋 Hi, I’m Julián Moreno
+# 👋 Hi, I’m Julián Moreno Cuenca
 
 - 👀 I’m passionate about **AI, Videogames, and Emerging Technologies**.
 - 🌱 I’m currently learning **Web Development** and expanding my programming skills.
 - 🎓 I hold a **Higher Vocational Diploma in Web Application Development**
 - 💻 I love experimenting with new frameworks, building projects, and solving problems.
-- 📫 You can reach me via [Gmail](mailto:morenojulian4502@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin/).
+- 📫 You can reach me via [Gmail](mailto:morenojulian4502@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/julian-moreno-1408b133a/).
 
 
 <div align="left">
