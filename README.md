@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **Web Development** and expanding my programming skills.
 - 🎓 I hold a **Higher Vocational Diploma in Web Application Development**
 - 💻 I love experimenting with new frameworks, building projects, and solving problems.
-- 📫 You can reach me via [Gmail](mailto:morenojulian4502@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/julian-moreno-1408b133a/).
+- 📫 You can reach me via [Gmail]([mailto:morenojulian4502@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=morenojulian4502@gmail.com)) or connect with me on [LinkedIn](https://www.linkedin.com/in/julian-moreno-cuenca/).
 
 
 <div align="left">
@@ -34,10 +34,10 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/julian-moreno-1408b133a" target="_blank">
+  <a href="https://www.linkedin.com/in/julian-moreno-cuenca/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
-  <a href="morenojulian4502@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=morenojulian4502@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
   <a href="https://www.instagram.com/julitown46/" target="_blank">
